@@ -82,3 +82,64 @@
 2020-02-14 19:16:14,927 INFO [api_employee.py(api_put_employee:29)] - 修改员工的数据data为：{'username': 'ya-g-11'},修改员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b02341c9-6596-4275-9f0a-99c71c27e337'}
 2020-02-14 19:16:15,272 INFO [api_employee.py(api_get_employee:34)] - 查询员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b02341c9-6596-4275-9f0a-99c71c27e337'}
 2020-02-14 19:16:15,555 INFO [api_employee.py(api_delete_employee:40)] - 删除员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b02341c9-6596-4275-9f0a-99c71c27e337'}
+2020-02-14 19:31:36,614 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 19:31:36,819 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 19:31:36,819 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 19:32:20,261 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 19:32:20,460 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 19:32:20,461 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:12:51,292 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:12:51,791 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:12:51,795 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:12:51,886 INFO [api_employee.py(api_post_employee:21)] - 添加员工的数据data为：{'username': 'yzz-gz-0043', 'mobile': '1301111074', 'workNumber': '13278533'},添加员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer cdaee0ba-d8a7-4be5-be8e-319b32f0ba25'}
+2020-02-14 21:12:52,237 INFO [api_employee.py(api_put_employee:29)] - 修改员工的数据data为：{'username': 'ya-g-11'},修改员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer cdaee0ba-d8a7-4be5-be8e-319b32f0ba25'}
+2020-02-14 21:12:52,605 INFO [api_employee.py(api_get_employee:34)] - 查询员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer cdaee0ba-d8a7-4be5-be8e-319b32f0ba25'}
+2020-02-14 21:12:52,908 INFO [api_employee.py(api_delete_employee:40)] - 删除员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer cdaee0ba-d8a7-4be5-be8e-319b32f0ba25'}
+2020-02-14 21:13:06,026 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:13:06,249 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:13:06,249 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:22:42,077 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:22:42,792 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:22:42,793 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:22:42,884 INFO [api_employee.py(api_post_employee:21)] - 添加员工的数据data为：{'username': 'yzz-gz-0043', 'mobile': '1301111074', 'workNumber': '13278533'},添加员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer a152d19e-f6f6-44fe-93d8-d43b4300e7ec'}
+2020-02-14 21:22:43,331 INFO [api_employee.py(api_put_employee:29)] - 修改员工的数据data为：{'username': 'ya-g-11'},修改员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer a152d19e-f6f6-44fe-93d8-d43b4300e7ec'}
+2020-02-14 21:22:43,850 INFO [api_employee.py(api_get_employee:34)] - 查询员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer a152d19e-f6f6-44fe-93d8-d43b4300e7ec'}
+2020-02-14 21:22:44,141 INFO [api_employee.py(api_delete_employee:40)] - 删除员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer a152d19e-f6f6-44fe-93d8-d43b4300e7ec'}
+2020-02-14 21:26:27,000 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:26:27,319 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:26:27,320 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:26:27,428 INFO [api_employee.py(api_post_employee:21)] - 添加员工的数据data为：{'username': 'yzz-gz-0043', 'mobile': '1301111074', 'workNumber': '13278533'},添加员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 1c57ad8b-a1e2-4448-b12e-312fee635f04'}
+2020-02-14 21:26:27,799 INFO [api_employee.py(api_put_employee:29)] - 修改员工的数据data为：{'username': 'ya-g-11'},修改员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 1c57ad8b-a1e2-4448-b12e-312fee635f04'}
+2020-02-14 21:26:28,120 INFO [api_employee.py(api_get_employee:34)] - 查询员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 1c57ad8b-a1e2-4448-b12e-312fee635f04'}
+2020-02-14 21:26:28,456 INFO [api_employee.py(api_delete_employee:40)] - 删除员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 1c57ad8b-a1e2-4448-b12e-312fee635f04'}
+2020-02-14 21:28:17,814 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:28:18,082 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:28:18,083 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:28:18,172 INFO [api_employee.py(api_post_employee:21)] - 添加员工的数据data为：{'username': 'yzz-gz-0043', 'mobile': '1301111074', 'workNumber': '13278533'},添加员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 24707f89-fcea-488f-aee7-eb9317d0ee8c'}
+2020-02-14 21:28:18,496 INFO [api_employee.py(api_put_employee:29)] - 修改员工的数据data为：{'username': 'ya-g-11'},修改员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 24707f89-fcea-488f-aee7-eb9317d0ee8c'}
+2020-02-14 21:28:18,802 INFO [api_employee.py(api_get_employee:34)] - 查询员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 24707f89-fcea-488f-aee7-eb9317d0ee8c'}
+2020-02-14 21:28:19,086 INFO [api_employee.py(api_delete_employee:40)] - 删除员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 24707f89-fcea-488f-aee7-eb9317d0ee8c'}
+2020-02-14 21:29:50,343 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:29:50,547 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:29:50,547 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:30:37,091 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:30:37,530 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:30:37,530 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:30:37,610 INFO [api_employee.py(api_post_employee:21)] - 添加员工的数据data为：{'username': 'yzz-gz-0043', 'mobile': '1301111074', 'workNumber': '13278533'},添加员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b073b14a-9156-4c16-a92c-53862dbbdc3f'}
+2020-02-14 21:30:37,926 INFO [api_employee.py(api_put_employee:29)] - 修改员工的数据data为：{'username': 'ya-g-11'},修改员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b073b14a-9156-4c16-a92c-53862dbbdc3f'}
+2020-02-14 21:30:38,267 INFO [api_employee.py(api_get_employee:34)] - 查询员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b073b14a-9156-4c16-a92c-53862dbbdc3f'}
+2020-02-14 21:30:38,550 INFO [api_employee.py(api_delete_employee:40)] - 删除员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b073b14a-9156-4c16-a92c-53862dbbdc3f'}
+2020-02-14 21:33:10,550 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:33:10,765 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:33:10,766 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:33:10,867 INFO [api_employee.py(api_post_employee:21)] - 添加员工的数据data为：{'username': 'yzz-gz-0043', 'mobile': '1301111074', 'workNumber': '13278533'},添加员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 56af0120-e2a5-4cc1-9163-977a4902d672'}
+2020-02-14 21:33:11,211 INFO [api_employee.py(api_put_employee:29)] - 修改员工的数据data为：{'username': 'ya-g-11'},修改员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 56af0120-e2a5-4cc1-9163-977a4902d672'}
+2020-02-14 21:33:11,573 INFO [api_employee.py(api_get_employee:34)] - 查询员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 56af0120-e2a5-4cc1-9163-977a4902d672'}
+2020-02-14 21:33:11,865 INFO [api_employee.py(api_delete_employee:40)] - 删除员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 56af0120-e2a5-4cc1-9163-977a4902d672'}
+2020-02-14 21:37:59,882 INFO [api_login.py(api_login:14)] - 请求的head：
+2020-02-14 21:38:00,086 INFO [test01_login.py(test_login:20)] - 登陆的结果为：
+2020-02-14 21:38:00,088 INFO [test01_login.py(test_login:29)] - 追加后的api.head为：
+2020-02-14 21:38:00,248 INFO [api_employee.py(api_post_employee:21)] - 添加员工的数据data为：{'username': 'yzz-gz-0043', 'mobile': '1301111074', 'workNumber': '13278533'},添加员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer d90d0992-5c51-4e31-9e0d-67a7dc9d06dc'}
+2020-02-14 21:38:00,739 INFO [api_employee.py(api_put_employee:29)] - 修改员工的数据data为：{'username': 'ya-g-11'},修改员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer d90d0992-5c51-4e31-9e0d-67a7dc9d06dc'}
+2020-02-14 21:38:01,087 INFO [api_employee.py(api_get_employee:34)] - 查询员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer d90d0992-5c51-4e31-9e0d-67a7dc9d06dc'}
+2020-02-14 21:38:01,359 INFO [api_employee.py(api_delete_employee:40)] - 删除员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer d90d0992-5c51-4e31-9e0d-67a7dc9d06dc'}

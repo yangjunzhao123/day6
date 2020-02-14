@@ -1,1 +1,0 @@
-[32mINFO    [0m root:api_employee.py:21 添加员工的数据data为：{'username': 'yzz-gz-0043', 'mobile': '1301111074', 'workNumber': '13278533'},添加员工返回的id为：{'Content-Type': 'application/json', 'Authorization': 'Bearer b02341c9-6596-4275-9f0a-99c71c27e337'}

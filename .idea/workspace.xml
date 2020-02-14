@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fac466a-500d-422a-b878-8f4717da075f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/day6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day6.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/ihrm.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/ihrm.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/60c4b52f-88a1-4a2d-94b4-e389e74a03fa-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/124332b5-e4a5-43fd-8a05-366de62be1aa-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/235da8ac-4a1a-4fca-a9c9-ec14c58a99de-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/31bc4ecd-9bef-40d3-b7e0-bfbbc16fef3b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/40cb3e65-3313-4912-b020-f34b1de88ec4-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/517bf4cc-7d62-4a20-9cd7-87230a12b98c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/d782fa31-37a2-4666-9eba-4a8915099da4-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/fcb9754e-00d9-4718-9699-f927ea73a45c-attachment.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +44,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="G:/黑马测试/就业班/移动端App学习/day10_移动端 APP 测试 day10/04_代码/xuchebu_project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -50,8 +56,8 @@
       <recent name="F:\interface_testing\day6\tools" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run_suite">
-    <configuration name="get_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for test01_login.TestLogin">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="day6" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/get_log.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,28 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="run_suite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="day6" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_suite.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for scripts.test01_login.TestLogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test01_login.TestLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="day6" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,46 +87,16 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;scripts.test01_login.TestLogin&quot;" />
+      <option name="_new_target" value="&quot;test01_login.TestLogin&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test02_employee.TestEmployee" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="day6" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test02_employee.TestEmployee&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in test01_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="day6" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/scripts/test01_login.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.run_suite" />
-        <item itemvalue="Python.get_log" />
-        <item itemvalue="Python tests.Unittests for test02_employee.TestEmployee" />
-        <item itemvalue="Python tests.Unittests for scripts.test01_login.TestLogin" />
-        <item itemvalue="Python tests.Unittests in test01_login.py" />
+        <item itemvalue="Python tests.pytest for test01_login.TestLogin" />
+        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -189,23 +144,35 @@
       <option name="project" value="LOCAL" />
       <updated>1581674888746</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第六天代码加了运用pytest运行生成了allure测试报告">
+      <created>1581679285112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581679285112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第六天代码" />
     <MESSAGE value="第六天代码加了pytest" />
-    <option name="LAST_COMMIT_MESSAGE" value="第六天代码加了pytest" />
+    <MESSAGE value="第六天代码加了运用pytest运行生成了allure测试报告" />
+    <option name="LAST_COMMIT_MESSAGE" value="第六天代码加了运用pytest运行生成了allure测试报告" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="25" key="#Notifications" timestamp="1581667827905">
+    <state x="275" y="25" key="#Notifications" timestamp="1581687170967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1581667827905" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1581674886679">
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1581687170967" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581679918898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581674886679" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581679918898" />
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1581679281951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581679281951" />
     <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1581675154610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -218,22 +185,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="533" y="70" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581667846058" />
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1581528011241">
+    <state width="1345" height="418" key="GridCell.Tab.0.bottom" timestamp="1581687015176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581528011241" />
-    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1581528011241">
+    <state width="1345" height="418" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581687015176" />
+    <state width="1345" height="418" key="GridCell.Tab.0.center" timestamp="1581687015175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581528011241" />
-    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1581528011241">
+    <state width="1345" height="418" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581687015175" />
+    <state width="1345" height="418" key="GridCell.Tab.0.left" timestamp="1581687015175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581528011241" />
-    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1581528011241">
+    <state width="1345" height="418" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581687015175" />
+    <state width="1345" height="418" key="GridCell.Tab.0.right" timestamp="1581687015176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581528011241" />
+    <state width="1345" height="418" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581687015176" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1581528011242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -250,10 +217,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581528011242" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581674890819">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1581679934343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581674890819" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581679934343" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581679287673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581679287673" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581494193122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

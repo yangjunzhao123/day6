@@ -1,1 +1,4 @@
-{}
+{
+  "scripts/test02_employee.py::TestEmployee::test01_post_0_yzz_gz_0043": true,
+  "scripts/test02_employee.py::TestEmployee::test04_delete": true
+}
