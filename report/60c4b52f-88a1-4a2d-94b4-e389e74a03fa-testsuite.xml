@@ -1,0 +1,38 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1581674711010" stop="1581674711010">
+  <description>This is the tests collection phase. Failures are modules that failed to collect.</description>
+  <name>test_collection_phase</name>
+  <title>Collection phase</title>
+  <labels/>
+  <test-cases>
+    <test-case start="1581674711010" status="broken" stop="1581674711010">
+      <name>test01_login</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>ImportError while importing test module 'F:\interface_testing\day6\scripts\test01_login.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+scripts\test01_login.py:5: in &lt;module&gt;
+    import api
+E   ModuleNotFoundError: No module named 'api'</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+    <test-case start="1581674711010" status="broken" stop="1581674711010">
+      <name>test02_employee</name>
+      <failure>
+        <message>failed</message>
+        <stack-trace>ImportError while importing test module 'F:\interface_testing\day6\scripts\test02_employee.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+scripts\test02_employee.py:5: in &lt;module&gt;
+    import api
+E   ModuleNotFoundError: No module named 'api'</stack-trace>
+      </failure>
+      <attachments/>
+      <labels/>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
