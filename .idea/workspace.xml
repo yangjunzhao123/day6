@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fac466a-500d-422a-b878-8f4717da075f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/day6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reporter/6523acb7-527c-42a7-8c58-c5622d27050c-testsuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reporter/9b916af6-7057-4a05-a69e-f267b8cec66b-attachment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/employee_login.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/data/employee_login.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/ihrm.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/ihrm.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reporter/124332b5-e4a5-43fd-8a05-366de62be1aa-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reporter/235da8ac-4a1a-4fca-a9c9-ec14c58a99de-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reporter/31bc4ecd-9bef-40d3-b7e0-bfbbc16fef3b-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reporter/40cb3e65-3313-4912-b020-f34b1de88ec4-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reporter/517bf4cc-7d62-4a20-9cd7-87230a12b98c-attachment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reporter/d782fa31-37a2-4666-9eba-4a8915099da4-testsuite.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reporter/fcb9754e-00d9-4718-9699-f927ea73a45c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/5719050b-ceb8-4482-9c52-8afae23dd695-testsuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reporter/49cfb24a-e717-4ad2-bf54-87e9d7d115bf-testsuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/5df42403-db47-4c2c-bd3f-49e2f4d52143-attachment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reporter/7f26d7ad-2111-44eb-aeed-245b241cedd8-attachment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/85806fb7-35fc-454c-9869-753aff52f4d4-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/9439bb26-f9da-445f-8d62-2c4228c53fbe-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/ae656da8-b9ba-46da-bf41-aba6fd2e212a-attachment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reporter/0385561d-85ad-449c-b204-6958865b7af4-attachment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/c157b0b0-6efa-4922-9332-ceb6647f01b7-attachment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reporter/3a5bc0e4-397a-434e-954f-90513af9bbaa-attachment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reporter/deefd916-ded1-4277-b0e7-39035e403b60-attachment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/reporter/41f79def-4f2e-4306-86eb-6f725a422452-attachment.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,14 +154,22 @@
       <option name="project" value="LOCAL" />
       <updated>1581679285112</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第六天代码加了运用pytest运行生成了allure测试报告+1">
+      <created>1581687532715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581687532716</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第六天代码" />
     <MESSAGE value="第六天代码加了pytest" />
     <MESSAGE value="第六天代码加了运用pytest运行生成了allure测试报告" />
-    <option name="LAST_COMMIT_MESSAGE" value="第六天代码加了运用pytest运行生成了allure测试报告" />
+    <MESSAGE value="第六天代码加了运用pytest运行生成了allure测试报告+1" />
+    <option name="LAST_COMMIT_MESSAGE" value="第六天代码加了运用pytest运行生成了allure测试报告+1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Notifications" timestamp="1581687170967">
@@ -169,10 +180,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581679918898" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1581679281951">
+    <state x="221" y="0" key="CommitChangelistDialog2" timestamp="1581687530008">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581679281951" />
+    <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581687530008" />
     <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1581675154610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -221,10 +232,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581679934343" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581679287673">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581687534381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581679287673" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581687534381" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581494193122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
