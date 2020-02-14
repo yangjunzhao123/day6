@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fac466a-500d-422a-b878-8f4717da075f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/CACHEDIR.TAG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/stepwise" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/ihrm.log.2020-02-12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/60c4b52f-88a1-4a2d-94b4-e389e74a03fa-testsuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/ihrm.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/ihrm.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/60c4b52f-88a1-4a2d-94b4-e389e74a03fa-testsuite.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +42,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="G:/黑马测试/就业班/移动端App学习/day10_移动端 APP 测试 day10/04_代码/xuchebu_project" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\interface_testing\day6" />
       <recent name="F:\interface_testing\day6\tools" />
     </key>
   </component>
@@ -180,30 +175,45 @@
       <option name="project" value="LOCAL" />
       <updated>1581667950847</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第六天代码加了pytest">
+      <created>1581674850236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581674850236</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第六天代码加了pytest">
+      <created>1581674888746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581674888746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第六天代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="第六天代码" />
+    <MESSAGE value="第六天代码加了pytest" />
+    <option name="LAST_COMMIT_MESSAGE" value="第六天代码加了pytest" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="25" key="#Notifications" timestamp="1581667827905">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1581667827905" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1581674864336">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1581674886679">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581674864336" />
-    <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1581669049990">
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581674886679" />
+    <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1581675154610">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581669049990" />
-    <state x="558" y="259" width="274" height="209" key="Github.ShareDialog" timestamp="1581667819847">
+    <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581675154610" />
+    <state x="558" y="259" width="274" height="209" key="Github.ShareDialog" timestamp="1581679222018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="558" y="259" width="274" height="209" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1581667819847" />
+    <state x="558" y="259" width="274" height="209" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1581679222018" />
     <state x="533" y="70" key="Github.UntrackedFilesDialog" timestamp="1581667846058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -240,10 +250,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581528011242" />
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581667954074">
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1581674890819">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581667954074" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581674890819" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581494193122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

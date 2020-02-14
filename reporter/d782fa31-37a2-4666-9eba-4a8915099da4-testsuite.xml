@@ -1,0 +1,62 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1581678974531" stop="1581678975777">
+  <name>test02_employee</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1581678974531" status="passed" stop="1581678974873">
+      <name>TestEmployee.test01_post_0_yzz_gz_0043</name>
+      <attachments>
+        <attachment source="235da8ac-4a1a-4fca-a9c9-ec14c58a99de-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1072-MainThread"/>
+        <label name="host" value="SKY-20191110VJI"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581678974913" status="passed" stop="1581678975214">
+      <name>TestEmployee.test02_put</name>
+      <attachments>
+        <attachment source="517bf4cc-7d62-4a20-9cd7-87230a12b98c-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1072-MainThread"/>
+        <label name="host" value="SKY-20191110VJI"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581678975256" status="passed" stop="1581678975492">
+      <name>TestEmployee.test03_get</name>
+      <attachments>
+        <attachment source="fcb9754e-00d9-4718-9699-f927ea73a45c-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1072-MainThread"/>
+        <label name="host" value="SKY-20191110VJI"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1581678975540" status="passed" stop="1581678975777">
+      <name>TestEmployee.test04_delete</name>
+      <attachments>
+        <attachment source="124332b5-e4a5-43fd-8a05-366de62be1aa-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1072-MainThread"/>
+        <label name="host" value="SKY-20191110VJI"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
